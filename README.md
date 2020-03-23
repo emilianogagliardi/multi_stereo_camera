@@ -11,3 +11,5 @@ Localization based on sparse features reconstruction. Expression of a reconstruc
 * Coupled 3D-2D: OpenGV (https://laurentkneip.github.io/opengv/) implementation of gPnP
 ## Visual odometry example
 Implementation of a simple VO pipeline (pose only optimization local bundle adjustment).
+
+![Alt Text](https://github.com/emilianogagliardi/multi_stereo_camera/blob/master/doc/demo.gif)
